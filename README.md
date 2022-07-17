@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WaqarAliBhatti
-- 👀 I’m interested in FULL STACK DEVELOPMENT
+- 👀 I’m a FULL STACK DEVELOPMENT
 - 🌱 I’m currently learning JAVASCRIPT
 - 💞️ I’m looking to collaborate on Several sites
 - 📬 You can contact me through my mail : waqar.hassan026@gmail.com
